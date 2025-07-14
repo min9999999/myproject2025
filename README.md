@@ -18,3 +18,11 @@
 
 2025/07/14 월요일
 1. C# WPF -> DB에 데이터 송신
+ string connString = "Host=localhost;Port=5432;Username=postgres ;Password=6302 ;Database=postgres";
+                double value = 1;
+                string content = "test";
+                DateTime now = DateTime.Now; // 현재 시간
+
+2025/07/15 화요일 
+value, content 입력박스 추가 후 송신
+

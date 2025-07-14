@@ -19,3 +19,8 @@ C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.d
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\myproject2025\myproject2025\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\myproject2025\myproject2025\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\myproject2025\myproject2025\WpfApp1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
