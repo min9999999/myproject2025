@@ -24,5 +24,6 @@
                 DateTime now = DateTime.Now; // 현재 시간
 
 2025/07/15 화요일 
-value, content 입력박스 추가 후 송신
+1. 데이터 보관 실습
+
 

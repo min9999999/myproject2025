@@ -11,15 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WpfApp1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+824d184d5e05bc9a33a7d4ed96e6c2f6b1a4acfa")]
-[assembly: System.Reflection.AssemblyProductAttribute("WpfApp1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WpfApp1")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
 
