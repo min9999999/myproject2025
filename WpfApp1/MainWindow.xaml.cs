@@ -29,7 +29,8 @@ namespace WpfApp1
                 // 1. 입력값 읽기
                 double value = 1;
                 string content = "test";
-                DateTime now = DateTime.Now; // 현재 시간
+                DateTime now = DateTime.Now;
+                string nowString = now.ToString("yyyy-MM-dd HH:mm:ss");
 
                 tbHi.Text = DateTime.Now.ToString() + " 데이터가 DB으로 송신 됩니다.";
                 //tbHi.Text = btnHello.Content.ToString() + "World";  //클릭시, TextBlock에 글자가 써짐
@@ -55,6 +56,53 @@ namespace WpfApp1
             catch(Exception ex)
             {
                 MessageBox.Show("오류 발생: " + ex.Message);
+            }
+        }
+
+        private void btnRefresh_Click(object sender, RoutedEventArgs e)
+        {
+            LoadDataFromDB();
+        }
+
+        private void LoadDataFromDB()
+        {
+            try
+            {
+                string connString = "Host=localhost;Port=5432;Username=postgres ;Password=6302 ;Database=postgres";
+
+                DataPanel.Children.Clear();
+
+                using (var conn = new NpgsqlConnection(connString))
+                {
+                    conn.Open();
+                    string query = "SELECT \"Date\", \"Value\", \"Content\" FROM history_test ORDER BY \"Date\" DESC";
+
+                    using (var cmd = new NpgsqlCommand(query, conn))
+                    using (var reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            DateTime date = reader.GetDateTime(0);
+                            double value = reader.GetDouble(1);
+                            string content = reader.GetString(2);
+
+                            TextBlock tb = new TextBlock
+                            {
+                                Text = $"{date:yyyy-MM-dd HH:mm:ss} | {value} | {content}",
+                                FontSize = 16,
+                                Margin = new Thickness(5)
+                            };
+
+                            DataPanel.Children.Add(tb);
+                        }
+                    }
+                }
+
+                tbHi.Text = "데이터 불러오기 완료.";
+            }
+            catch (Exception ex)
+            {
+                tbHi.Text = "불러오기 실패: " + ex.Message;
             }
         }
     }

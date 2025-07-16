@@ -6,7 +6,6 @@ C:\myproject2025\myproject2025\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
-C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
 C:\myproject2025\myproject2025\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
