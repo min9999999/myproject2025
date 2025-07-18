@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleApp1;
 
 namespace IntegralTypes
 {
@@ -25,6 +26,8 @@ namespace IntegralTypes
             ulong h = 200_0000_0000_000_0000;
 
             Console.WriteLine($"g={g}, h={h}");
+
+            EnumEx.PrintDialogResults();
         }
     }
 }

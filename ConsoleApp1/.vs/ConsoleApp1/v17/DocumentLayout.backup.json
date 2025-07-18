@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C542D708-7E52-463D-A860-70BD515A289B}|ConsoleApp1.csproj|c:\\myproject2025\\myproject2025\\consoleapp1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C542D708-7E52-463D-A860-70BD515A289B}|ConsoleApp1.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C542D708-7E52-463D-A860-70BD515A289B}|ConsoleApp1.csproj|c:\\myproject2025\\myproject2025\\consoleapp1\\enumex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C542D708-7E52-463D-A860-70BD515A289B}|ConsoleApp1.csproj|solutionrelative:enumex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "MainApp.cs",
               "ToolTip": "C:\\myproject2025\\myproject2025\\ConsoleApp1\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:46:07.751Z",
+              "WhenOpened": "2025-07-18T13:48:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumEx.cs",
+              "DocumentMoniker": "C:\\myproject2025\\myproject2025\\ConsoleApp1\\EnumEx.cs",
+              "RelativeDocumentMoniker": "EnumEx.cs",
+              "ToolTip": "C:\\myproject2025\\myproject2025\\ConsoleApp1\\EnumEx.cs",
+              "RelativeToolTip": "EnumEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:44:32.421Z",
               "EditorCaption": ""
             }
           ]
