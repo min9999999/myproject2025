@@ -1,0 +1,15 @@
+C:\myproject2025\myproject2025\ArrayStudy\bin\Debug\net8.0\ArrayStudy.exe
+C:\myproject2025\myproject2025\ArrayStudy\bin\Debug\net8.0\ArrayStudy.deps.json
+C:\myproject2025\myproject2025\ArrayStudy\bin\Debug\net8.0\ArrayStudy.runtimeconfig.json
+C:\myproject2025\myproject2025\ArrayStudy\bin\Debug\net8.0\ArrayStudy.dll
+C:\myproject2025\myproject2025\ArrayStudy\bin\Debug\net8.0\ArrayStudy.pdb
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.AssemblyInfoInputs.cache
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.AssemblyInfo.cs
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.csproj.CoreCompileInputs.cache
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.sourcelink.json
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.dll
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\refint\ArrayStudy.dll
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.pdb
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ArrayStudy.genruntimeconfig.cache
+C:\myproject2025\myproject2025\ArrayStudy\obj\Debug\net8.0\ref\ArrayStudy.dll
