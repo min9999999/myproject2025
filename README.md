@@ -48,3 +48,10 @@
 public string Name <- 필드
 public void Meow() <- 메소드
 Cat kitty = new Cat(); <- kitty 객체 생성
+
+2025/08/31 일요일
+1. Overriding 이란 자식 클래스에서 부모 클래스의 메서드를 재정의하여 사용하는 것을 오버라이딩이라고 합니다.
+- 오버라이딩할 부모 메소드가 virtual 키워드로 한정되어 있어야 한다.
+- 자식 메소드에서는 Initialize() 메소드를 새롭게 정의한다
+public override void Initialize()
+- 추가로 base.Initialize()를 통해 부모 메서드를 불러올 수 있음.
